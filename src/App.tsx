@@ -7,6 +7,10 @@ class App extends React.Component<{}, {}> {
     console.log("test");
   }
 
+  testEdit() {
+    console.log("eds");
+  }
+
   render() {
     return (
       <div className="App">
@@ -15,6 +19,7 @@ class App extends React.Component<{}, {}> {
           <p>
             Edit <code>src/App.tsx</code> and save to reload.
           </p>
+          <div>test</div>
           <a
             className="App-link"
             href="https://reactjs.org"
