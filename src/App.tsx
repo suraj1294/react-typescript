@@ -17,7 +17,7 @@ class App extends React.Component<{}, {}> {
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
           <p>
-            Edit <code>ok</code> and save to reload.
+            Edit <code>ok!</code> and save to reload.
           </p>
           <div>test1</div>
           <a
