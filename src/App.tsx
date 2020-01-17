@@ -19,7 +19,7 @@ class App extends React.Component<{}, {}> {
           <p>
             Edit <code>src/App.tsx</code> and save to reload.
           </p>
-          <div>test</div>
+          <div>test1</div>
           <a
             className="App-link"
             href="https://reactjs.org"
